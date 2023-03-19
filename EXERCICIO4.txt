@@ -1,0 +1,2 @@
+O carro, que sai de Ribeirão Preto, percorre 50 km a uma velocidade de 110 km/h. Ele levará aproximadamente 27 minutos para percorrer esse trecho.
+O caminhão, que sai de Franca, também percorre 50 km a uma velocidade de 80 km/h. Supondo que cada pedágio leve 5 minutos, o caminhão levará 10 minutos a mais para percorrer esse trecho, totalizando 37 minutos.
